@@ -7,7 +7,7 @@ import os
 from sklearn.metrics import accuracy_score
 
 
-# Set path for the input (model) *****
+# Set path for the input (model) *******
 MODEL_DIR = os.environ["MODEL_DIR"]
 model_file = 'logit_model.joblib'
 model_path = os.path.join(MODEL_DIR, model_file)
