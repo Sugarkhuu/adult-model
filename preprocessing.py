@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-# Set path for the input
+# Set path for the input testing here
 RAW_DATA_DIR = os.environ["RAW_DATA_DIR"]
 RAW_DATA_FILE = os.environ["RAW_DATA_FILE"]
 raw_data_path = os.path.join(RAW_DATA_DIR, RAW_DATA_FILE)
