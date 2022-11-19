@@ -1,10 +1,2 @@
-print("Hi there")
-print("Change to be detected by webhook, not by regular pull scm")
-print("Once more")
-print("Deleted the webhook")
-print("Rewrote the webhook")
-print("Deleted the webhook and regular checking")
-print("Ngrok is off")
-print("Ngrok is off for half day")
-print("Ngrok is on at https://a843-194-94-198-216.eu.ngrok.io ") 
-print("Ngrok is on at https://a843-194-94-198-216.eu.ngrok.io ") 
+print("Hi Unurtuvshin and Undral! I am Jenkins!")
+
