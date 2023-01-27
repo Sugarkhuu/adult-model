@@ -1,2 +1,2 @@
-print("Hi Unurtuvshin and Undral! I am Jenkins!")
+print("Hi all!")
 
